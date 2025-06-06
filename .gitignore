@@ -1,0 +1,15 @@
+# Ignore clasp project credentials
+.clasp.json
+
+# Node dependencies (if added later)
+node_modules/
+
+# OS metadata, Ignore system files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional) Ignore editor-specific folders
+.vscode/
+
+# Log files
+*.log
