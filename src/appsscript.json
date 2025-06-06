@@ -2,5 +2,11 @@
   "timeZone": "America/Phoenix",
   "dependencies": {},
   "exceptionLogging": "STACKDRIVER",
-  "runtimeVersion": "V8"
+  "runtimeVersion": "V8",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/gmail.modify",
+    "https://www.googleapis.com/auth/spreadsheets",
+    "https://www.googleapis.com/auth/script.properties",
+    "https://www.googleapis.com/auth/script.external_request"
+  ]
 }
