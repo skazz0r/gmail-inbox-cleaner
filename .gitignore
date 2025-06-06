@@ -1,15 +1,18 @@
-# Ignore clasp project credentials
+# Google Apps Script credentials
 .clasp.json
 
-# Node dependencies (if added later)
+# Node modules (if used in future automation)
 node_modules/
 
-# OS metadata, Ignore system files
+# Mac and Windows metadata
 .DS_Store
 Thumbs.db
 
-# VS Code settings (optional) Ignore editor-specific folders
+# VS Code config (optional)
 .vscode/
 
-# Log files
+# Logs
 *.log
+
+# Clasp deployments
+.build/

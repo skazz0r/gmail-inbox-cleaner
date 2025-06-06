@@ -1,3 +1,3 @@
-# Gmail Inbox Cleaner
+# gmail-inbox-cleaner
 
-Automates Gmail cleanup using Apps Script via clasp. Includes smart filters, logging, and inbox dashboard.
+Automates Gmail inbox using Google Apps Script via clasp by sorting, labeling, and archiving emails. Includes smart filters, logging, and inbox dashboard. by sorting, labeling, and archiving emails.
